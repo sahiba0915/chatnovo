@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chatnovo/static/css/main.9105260c.css",
-    "main.js": "/chatnovo/static/js/main.19c21e27.js",
+    "main.js": "/chatnovo/static/js/main.ccef36d1.js",
     "static/js/787.bd1622a0.chunk.js": "/chatnovo/static/js/787.bd1622a0.chunk.js",
     "index.html": "/chatnovo/index.html",
     "main.9105260c.css.map": "/chatnovo/static/css/main.9105260c.css.map",
-    "main.19c21e27.js.map": "/chatnovo/static/js/main.19c21e27.js.map",
+    "main.ccef36d1.js.map": "/chatnovo/static/js/main.ccef36d1.js.map",
     "787.bd1622a0.chunk.js.map": "/chatnovo/static/js/787.bd1622a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9105260c.css",
-    "static/js/main.19c21e27.js"
+    "static/js/main.ccef36d1.js"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "name": "chatnovo",
   "version": "0.1.0",
+  "homepage": "https://sahiba0915.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
@@ -17,6 +18,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
